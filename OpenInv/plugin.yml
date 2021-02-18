@@ -1,0 +1,9 @@
+name: OpenInv
+version: 1.16.0
+api-version: 1.16
+main: de.redoxcraft.openinv.main.Main
+author: RedoxCraft
+website: https://www.youtube.com/redoxcraft
+
+commands:
+   inventar:
